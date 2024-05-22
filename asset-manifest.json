@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Timecapsule/static/css/main.fbd43f6e.css",
-    "main.js": "/Timecapsule/static/js/main.c343c905.js",
-    "static/js/453.27878d9e.chunk.js": "/Timecapsule/static/js/453.27878d9e.chunk.js",
-    "index.html": "/Timecapsule/index.html",
-    "main.fbd43f6e.css.map": "/Timecapsule/static/css/main.fbd43f6e.css.map",
-    "main.c343c905.js.map": "/Timecapsule/static/js/main.c343c905.js.map",
-    "453.27878d9e.chunk.js.map": "/Timecapsule/static/js/453.27878d9e.chunk.js.map"
+    "main.css": "/TimeCapsule/static/css/main.fbd43f6e.css",
+    "main.js": "/TimeCapsule/static/js/main.2d856a7d.js",
+    "static/js/453.27878d9e.chunk.js": "/TimeCapsule/static/js/453.27878d9e.chunk.js",
+    "index.html": "/TimeCapsule/index.html",
+    "main.fbd43f6e.css.map": "/TimeCapsule/static/css/main.fbd43f6e.css.map",
+    "main.2d856a7d.js.map": "/TimeCapsule/static/js/main.2d856a7d.js.map",
+    "453.27878d9e.chunk.js.map": "/TimeCapsule/static/js/453.27878d9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbd43f6e.css",
-    "static/js/main.c343c905.js"
+    "static/js/main.2d856a7d.js"
   ]
 }
