@@ -1,0 +1,39 @@
+h1{
+    height: inherit;
+    width: inherit;
+    justify-items: center;
+    font-size: 10em;
+    font-family:'Playfair Display', serif;
+    display: grid;
+    align-items: center;
+    font-weight: bold;
+}
+
+.text-content{
+    background-color:rgb(30, 30, 30);
+    filter: brightness(2);
+    display:flexbox;
+    text-align: right;
+    margin-left: 10%;
+    width: fit-content;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family:'Raleway', sans-serif;
+    width:fit-content;
+    text-align: right;
+    margin-left: 10%; 
+    color: white;
+}
+
+body,html{
+    padding:0;
+    margin-right:10px;
+    background-color: blueviolet;
+    filter: brightness(0.7);
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
